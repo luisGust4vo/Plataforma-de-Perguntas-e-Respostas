@@ -1,2 +1,21 @@
-# Plataforma-de-Perguntas-e-Respostas Nodejs
-Foi criado uma aplicação de perguntas e respostas usando as tecnologias NodeJs,Ejs,Sequelize,Structured Query Language
+## Q&A Platform 
+
+# Getting Started
+A question and answer application was created using the technologies:
+- NodeJs
+- Ejs
+- Sequelize
+- Structured Query Language
+- Bootstrap
+
+## Learn More
+ - [npmjs](https://www.npmjs.com/package/nodemon)
+ - [npmjs-repository](github.com/remy/nodemon)
+  
+## Deploy
+To deploy this project, run
+```bash
+  nodemon run deploy
+```
+
+
