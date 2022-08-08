@@ -16,6 +16,7 @@ A question and answer application was created using the technologies:
 To deploy this project, run
 ```bash
   nodemon run deploy
+  Digitalocean.com(https://www.digitalocean.com/)
 ```
 
 
